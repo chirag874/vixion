@@ -1,0 +1,7 @@
+{
+  "name": "Vixion",
+  "description": "A holographic, conversational AI assistant with a customizable, futuristic interface. Engage in voice or text conversations, and arrange your workspace with draggable and resizable widgets for weather, profile, investments, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
